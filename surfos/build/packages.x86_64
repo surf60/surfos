@@ -116,7 +116,6 @@ plasma-integration
 plasma-nm
 plasma-pa
 plasma-sdk
-plasma-simplemenu
 plasma-systemmonitor
 plasma-wayland-session
 plasma-workspace
@@ -141,8 +140,6 @@ squashfs-tools
 sudo
 syslinux
 systemd
-systemd-kcm
-systemd-sysvcompact
 systemd-resolvconf
 tar
 tcpdump
