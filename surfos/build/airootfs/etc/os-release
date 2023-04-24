@@ -1,0 +1,6 @@
+NAME="surfos"
+PRETTY_NAME="surfos"
+ID=surfos
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
