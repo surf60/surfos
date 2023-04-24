@@ -74,6 +74,7 @@ linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
+lxterminal
 lynx
 man-db
 man-pages
@@ -86,6 +87,7 @@ mkinitcpio-archiso
 mkinitcpio-nfs-utils
 modemmanager
 mtools
+mtr
 nano
 networkmanager
 nbd
@@ -108,6 +110,7 @@ partclone
 parted
 partimage
 pcsclite
+plasma
 plasma-browser-integration
 plasma-desktop
 plasma-disks
@@ -160,4 +163,8 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+xorg-apps
+xorg-server
+xorg-xinit
+xterm
 zsh
