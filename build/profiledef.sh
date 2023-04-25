@@ -4,8 +4,7 @@
 iso_name="surfos"
 iso_label="surfos_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="surf60"
-desktop="Kde"
-iso_application="surfos live ISO"
+iso_application="surfos iso"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
