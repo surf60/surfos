@@ -168,3 +168,27 @@ xorg-server
 xorg-xinit
 xterm
 zsh
+
+#calamares dependacies
+boost-libs
+perl
+ckbcomp-bin
+gtk-update-icon-cache
+hwinfo
+icu
+kconfig
+kcoreaddons
+ki18n
+kiconthemes
+kio
+kpmcore
+libpwquality
+mkinitcpio-openswap
+plasma-framework
+polkit-qt5
+qt5-svg
+qt5-xmlpatterns
+solid
+yaml-cpp
+
+calamares
