@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:surfos
+wheel:x:10:surfos
+uucp:x:14:surfos
+surfos:x:1000:
