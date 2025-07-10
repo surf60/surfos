@@ -32,7 +32,7 @@ f2fs-tools
 fatresize
 fsarchiver
 firefox
-gnu-netcat
+#gnu-netcat
 gpart
 gparted
 gpm
@@ -48,8 +48,8 @@ iwd
 jfsutils
 kate
 kdeplasma-addons
-kgamma5
-khotkeys
+#kgamma5
+#khotkeys
 kinfocenter
 kinit
 kitty-terminfo
@@ -120,7 +120,7 @@ plasma-nm
 plasma-pa
 plasma-sdk
 plasma-systemmonitor
-plasma-wayland-session
+#plasma-wayland-session
 plasma-workspace
 ppp
 pptpclient
@@ -128,7 +128,7 @@ pv
 qemu-guest-agent
 refind
 reflector
-reiserfsprogs
+#reiserfsprogs
 rp-pppoe
 rsync
 rxvt-unicode-terminfo
